@@ -61,4 +61,4 @@ If you find our work useful, please consider citing our paper as follows:
 
 ## License
 
-This project is derviedf from TD-MPC2, which is licensed under the MIT License - see the `LICENSE` file for details. Note that the repository relies on third-party code, which is subject to their respective licenses.
+This project is dervied from TD-MPC2, which is licensed under the MIT License - see the `LICENSE` file for details. Note that the repository relies on third-party code, which is subject to their respective licenses.
