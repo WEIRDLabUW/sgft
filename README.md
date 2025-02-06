@@ -52,12 +52,11 @@ If you use this code, please also cite the original authors as specified in thei
 If you find our work useful, please consider citing our paper as follows:
 
 ```
-@article{yin2024sgft,
+@inproceedings{yin2025sgft,
   author    = {Yin, Patrick and Westenbroek, Tyler and Bagaria, Simran and Huang, Kevin and Cheng, Ching-An and Kolobov, Andrey and Gupta, Abhishek},
   title     = {Rapidly Adapting Policies to the Real-World via Simulation-Guided Fine-Tuning},
-  booktitle = {ArXiv Preprint},
+  booktitle = {International Conference on Learning Representations (ICLR)},
   year      = {2025},
-}
 ```
 
 ## License
